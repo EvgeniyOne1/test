@@ -1,0 +1,23 @@
+.menu {
+    text-align: center;
+}
+h1 {
+    font-size: 12px;
+    color: red;
+    text-align: center;
+}
+.big {
+    font-size: 33px;
+    color: blue;
+    text-align: center;
+}
+.paragraph {
+    font-size: 14px;
+    color: aqua;
+    text-align: center;
+}
+.paragraph2 {
+    font-size: 21px;
+    color: brown;
+    text-align: center;
+}
